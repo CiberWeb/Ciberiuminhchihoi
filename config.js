@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'Bạn ơi!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Đi dưới trời đông,
+                Tôi suýt sặc tuyết
+                Vì bạn lướt qua
+                Tôi biết thế nào là tuyệt sắc`,
     btnIntro: 'hihi',
     title: 'Tôi thích bạn lắm rồi',
-    desc: 'Hôm nay mới đủ can đảm để tỏ tình <33 ',
+    desc: 'Hôm nay mới đủ can đảm để tỏ tình đếy <33 ',
     btnYes: 'Okk luôn',
     btnNo: 'Không!',
     question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu tôi :)) ',
