@@ -9,8 +9,8 @@ const CONFIG = {
     btnYes: 'Ok',
     btnNo: 'Không!',
     question:'Trên thế giới hơn 7 tỉ người mà sao c lại yêu e ;) ',
-    reply: 'ib cho e nhoa ' 
-    btnReply: 'Gửi cho e <3'
+    reply: 'ib cho e nhoa ' ,
+    btnReply: 'Gửi cho e <3',
     mess: 'E biết mà 🥰. Yêu c nhìuuuuuuuuuu 😘😘',
     messDesc: 'Yêu luôn nhá.',
     btnAccept: 'Okiiiii lun <3',
