@@ -1,18 +1,17 @@
 const CONFIG = {
-    introTitle: 'Bạn ơi!',
-    introDesc: `Đi dưới trời đông,
-                Tôi suýt sặc tuyết
-                Vì bạn lướt qua
-                Tôi biết thế nào là tuyệt sắc`,
-    btnIntro: 'hihi',
-    title: 'Tôi thích bạn lắm rồi',
-    desc: 'Hôm nay mới đủ can đảm để tỏ tình đếy <33 ',
-    btnYes: 'Okk luôn',
+    introTitle: 'C iu quý chinh đẹp ưi',
+    introDesc: `Ngồi trong toilet
+    Gào thét tên em`,
+    btnIntro: 'cờ lích típ iikk',
+    title: 'E iuuuu c lắm rồi',
+    desc: 'Thậc ra là hôm nay ngày 22/02/2022 ngày mà người ta bảo là có nhiều năng lượng nên em mún nói là ',
+    desc: 'e iu c lắm ạ , làm nguoi iu e nhoaaaa '
+    btnYes: 'Ok',
     btnNo: 'Không!',
-    question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu tôi :)) ',
-    btnReply: 'Gửi cho tôi <3',
-    reply: 'Vì tôi yêu bạn chứ sao <3333',
-    mess: 'Tôi biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    question:'Trên thế giới hơn 7 tỉ người mà sao c lại yêu e ;) ',
+    reply: 'ib cho e nhoa ' 
+    btnReply: 'Gửi cho e <3'
+    mess: 'E biết mà 🥰. Yêu c nhìuuuuuuuuuu 😘😘',
     messDesc: 'Yêu luôn nhá.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/m.phongdepzai'
